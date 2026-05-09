@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Tầm pin  IRM66HTBD4-720 2 mặt kính",
+        "description": "- Công suất: 720W. Hiệu suất: 23.2%.\r\n- Kích thước: 2384 x 1303 x 33mm. Công nghệ NType Topcon có độ suy hao thấp\r\n- Giảm nguy cơ điểm nóng, cũng như tăng cường khả năng chịu đựng cho tải cơ học. \r\n- Bảo hành sản phẩm15 năm\r\n- Bảo hành hiệu suất 30 năm",
+        "power": "730W",
+        "price": "3.000.000 VND",
+        "image": "product_1778222939_1190.png",
+        "id": 1,
+        "created_at": "2026-05-08 06:48:59",
+        "is_featured": false
+    },
+    {
+        "name": "BIẾN TẦN SOLIS  Inverter hybrid S6-EH1P5K-L-PLUS",
+        "description": "- Công suất 5KW\r\n- Hiệu suất 96,2%\r\n- Điện áp định mức: 330V\r\n- 2MPPT, 2 String\r\n- Max PV input: 10KW\r\n- Max PV chuyển đổi: 8KW\r\n- Công suất hòa lưới\/backup: 5KW\r\n- Truyền thông RS485, CAN, Tùy chọn WiFi, GPRS, LAN\r\n- Bảo hành 5 năm",
+        "power": "5KW",
+        "price": "25.430.100 VND",
+        "image": "product_1778224023_2881.png",
+        "id": 2,
+        "created_at": "2026-05-08 07:07:03",
+        "is_featured": false
+    },
+    {
+        "name": "BIẾN TẦN BSS Inverter hybrid BSS-6K-LP1-IP65",
+        "description": "Công suất 6KW\r\nHiệu suất 97.4%\r\nĐiện áp định mức: 230V\r\nDòng điện đầu vào tối đa: 37A \/ 2PV Input\r\nChuẩn IP65 kháng nước, kháng bụi, kháng côn trùng\r\nMax PV input: 12KWp\r\nMax PV chuyển đổi: 9KWp\r\nKích thước: W455mm x D200mm x H447mm\r\nBảo hành 5 năm",
+        "power": "6 KW",
+        "price": "15.000.000 VND",
+        "image": "product_1778224532_8074.png",
+        "id": 3,
+        "created_at": "2026-05-08 07:15:32",
+        "is_featured": true
+    },
+    {
+        "name": "BIẾN TẦN Solis Inverter hybrid Solis S6-EH1P10K-L-PLUS",
+        "description": "Công suất 10KW\r\nHiệu suất 96,2%\r\nĐiện áp định mức: 330V\r\nDòng điện đầu vào tối đa: 42A\/42A\r\n2MPPT, 4 String\r\nMax PV input: 20KW\r\nMax PV chuyển đổi: 16KW\r\nCông suất hòa lưới\/backup: 10KW\r\nKhả năng quá tải 200% trong 10 giây\r\nTương thích với máy phát điện, kéo dài thời\r\ngian dự phòng khi mất điện lưới\r\nBảo hành 5 năm",
+        "power": "10 KW",
+        "price": "44.614.710 VND",
+        "image": "product_1778224690_5452.png",
+        "id": 4,
+        "created_at": "2026-05-08 07:18:10",
+        "is_featured": true
+    },
+    {
+        "name": "BIẾN TẦN SOLIS  Inverter hybrid S6-EH1P12K-L-PLUS",
+        "description": "Công suất 12KW\r\nHiệu suất 97,6%\r\nĐiện áp định mức: 380V\r\n3MPPT, 6 String\r\nMax PV input: 24KW\r\nMax PV chuyển đổi: 19.2KW\r\nCông suất hòa lưới\/backup: 12KW\r\nTruyền thông RS485,Tùy chọn WiFi, Cellular, LAN\r\nBảo hành 5 năm&amp;quot;",
+        "power": "12KW",
+        "price": "51.000.000 VND",
+        "image": "product_1778296286_1846.png",
+        "is_featured": true,
+        "id": 5,
+        "created_at": "2026-05-09 03:11:26"
+    }
+]
